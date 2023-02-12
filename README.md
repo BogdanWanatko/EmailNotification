@@ -1,3 +1,5 @@
+!!The application is not finished yet!!
+
 This is a simple Email Notification Application that sends an email to a list of recipients.
 
 How to use:
